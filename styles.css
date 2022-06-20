@@ -1,9 +1,8 @@
 body {
     display: block;
-    margin: 8px auto;
+    margin: 8px;
     width: 100%;
     max-width: 1024px;
-
     background-color: #389583;
 }
 
@@ -11,7 +10,7 @@ header {
     background-color: rgba(92, 219, 185, .3);
     border-radius: 4px;
     text-align: center;
-
+    
     padding-top: 10px;
     padding-bottom: 10px;
 }
